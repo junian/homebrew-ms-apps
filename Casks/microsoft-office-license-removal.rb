@@ -9,5 +9,7 @@ cask "microsoft-office-license-removal" do
   desc "Microsoft Office License Removal"
   homepage "https://support.microsoft.com/en-us/office/how-to-remove-office-license-files-on-a-mac-b032c0f6-a431-4dad-83a9-6b727c03b193"
 
+  depends_on :macos
+  
   pkg "Microsoft_Office_License_Removal_#{version}.pkg"
 end
