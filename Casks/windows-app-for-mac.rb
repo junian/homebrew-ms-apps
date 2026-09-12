@@ -26,8 +26,7 @@ cask "windows-app-for-mac" do
     end
   end
   
-  url "https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Windows_App_#{version}_installer.pkg",
-      verified: "officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/"
+  url "https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Windows_App_#{version}_installer.pkg"
   name "Windows App"
   desc "Connect to Windows"
   homepage "https://aka.ms/WindowsApp"
