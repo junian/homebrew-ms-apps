@@ -1,6 +1,6 @@
-## Homebrew Mirrors
+## Homebrew MS Apps
 
-Mirrors for some apps that is not available on official Homebrew Taps.
+Unofficial Homebrew Tap of Microsoft Apps for Older Mac.
 
 ## How to use.
 
