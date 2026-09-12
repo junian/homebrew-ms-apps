@@ -7,13 +7,13 @@ Mirrors for some apps that is not available on official Homebrew Taps.
 Before using my Homebrew tap, you need to `trust` the repository first.
 
 ```bash
-brew trust junian/homebrew-mirrors
+brew trust junian/homebrew-ms-apps
 ```
 
 After the system trusted the repository, the next thing to do is to `tap` it.
 
 ```bash
-brew tap junian/homebrew-mirrors
+brew tap junian/homebrew-ms-apps
 ```
 
 Select the app you need and install using command line like this:
